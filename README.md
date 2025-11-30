@@ -1,0 +1,1 @@
+The original dataset was 159 MB; for that, I could not upload it into GitHub. I tried with Git LFS to upload the dataset, but it failed. After that, my whole Git repo didn't work. For that reason, I created a new repo and uploaded all the files. I reduced the size of the dataset. The new dataset that I uploaded is 91.7 MB.
